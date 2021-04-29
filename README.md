@@ -1,4 +1,5 @@
 # PINNs-TF2.0
+## GORZARDFU EDITION!!!
 Implementation in TensorFlow 2.0 of different examples put together by Raissi _et al._ on their original publication about Physics Informed Neural Networks.
 
 By designing a custom loss function for standard fully-connected deep neural networks, enforcing the known laws of physics governing the different setups, their work showed that it was possible to either solve or discover with surprisingly good accuracy Partial Differential Equations from noisy and scarce  data. The very kind that is widespread in real-life applications.
